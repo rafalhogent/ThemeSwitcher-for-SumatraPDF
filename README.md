@@ -1,6 +1,6 @@
 # ThemeSwitcher-for-SumatraPDF
 
-1. Make to SumatraPDF-settings files with values you like
+1. Make 2 SumatraPDF-settings files with values you like
 adjust contrast/brightness by modifying Properties
 
 ## SumatraPDF-settings_DARK.txt
